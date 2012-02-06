@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ScanQRCodeSampleAppActivity!</string>
+    <string name="app_name">ScanQRCodeSampleApp</string>
+	<string name="result_succeeded">Result Found</string>
+	<string name="result_failed">Result Failed</string>
+</resources>
