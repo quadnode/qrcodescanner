@@ -1,0 +1,1 @@
+https://github.com/quadnode/qrcodescanner/raw/master/bin/ScanQRCodeSampleApp.apk
