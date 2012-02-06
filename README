@@ -1,5 +1,6 @@
 An Android App to scan the QR code and show the information from the code.
 
+Required:- This application requires Bar Code Scanner app. If this app is not installed on your device, it will display a popup if you want to install Bar Code Scanner. When you press "yes", it will take you to the market place. Install the app and enjoy scanning.
 Love your feedback about it.
 
 Contributer :
