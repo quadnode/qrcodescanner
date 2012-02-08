@@ -1,1 +1,16 @@
 .DS_Store
+bin/classes
+bin/res
+bin/*.dex
+bin/*.ap_
+.classpath
+.project
+
+
+
+
+
+
+
+
+
